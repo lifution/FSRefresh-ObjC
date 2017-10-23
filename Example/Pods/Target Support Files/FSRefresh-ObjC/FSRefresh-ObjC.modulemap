@@ -1,0 +1,6 @@
+framework module FSRefresh_ObjC {
+  umbrella header "FSRefresh-ObjC-umbrella.h"
+
+  export *
+  module * { export * }
+}

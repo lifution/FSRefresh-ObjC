@@ -1,0 +1,16 @@
+PODS:
+  - FSRefresh-ObjC (0.1.0)
+
+DEPENDENCIES:
+  - FSRefresh-ObjC (from `../`)
+
+EXTERNAL SOURCES:
+  FSRefresh-ObjC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FSRefresh-ObjC: f1b14e6535aa01a084bdccc1a3617b4fdf883de3
+
+PODFILE CHECKSUM: 96aed0a10acfae6586feba486f92ca45b6ab3fbd
+
+COCOAPODS: 1.3.1
