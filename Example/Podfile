@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FSRefresh-ObjC_Example' do
+  pod 'FSRefresh-ObjC', :path => '../'
+
+  target 'FSRefresh-ObjC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
